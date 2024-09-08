@@ -26,7 +26,7 @@ Hi, I'm Griffins Mbae, a passionate software engineer and problem solver with a 
 I’m always open to new challenges and collaborations. Whether you're looking to build a new app, revamp your website, or optimize your current systems, I’d love to help you achieve your business goals!
 
 - 📞 **Call/WhatsApp**: [+254743269238](tel:+254743269238)
-- 📧 **Email**: [grit.mbae@example.com](mailto:grit.mbae@example.com)
+- 📧 **Email**: [grit.mbae@example.com](mailto:griffinskirimimbae@gmail.com)
 - 💼 **LinkedIn**: [Griffins Mbae](https://www.linkedin.com/in/griffins-mbae)
 
 ## 🌟 Why Work With Me?
